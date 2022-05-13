@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap");
+.content {
+  width: auto;
+  margin: 0 50px;
+}
+.content__back {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  color: #1D1D1D;
+  margin-top: 20px;
+}
+.content__title {
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #3b785a;
+  margin-top: 20px;
+}
+.content__list {
+  display: flex;
+}
+.content__text {
+  width: 400px;
+  height: 500px;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+.content__listPicture {
+  margin-left: 150px;
+}
+
+/*# sourceMappingURL=third.module.css.map */

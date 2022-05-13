@@ -1,0 +1,29 @@
+.content {
+  width: auto;
+  margin: 0 50px;
+}
+.content__back {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  color: #1D1D1D;
+  margin-top: 20px;
+}
+.content__title {
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #3b785a;
+  margin-top: 20px;
+}
+.content__list {
+  display: flex;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.content__listItem {
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+}
+
+/*# sourceMappingURL=first.module.css.map */
